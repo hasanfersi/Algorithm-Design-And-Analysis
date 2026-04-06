@@ -25,7 +25,6 @@ Suitable For
 - Unsorted arrays
 
 
-
 2. Binary Search
  Description
 Binary Search is an efficient searching algorithm that works only on sorted arrays. It repeatedly divides the search interval into halves.
